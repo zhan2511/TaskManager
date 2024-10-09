@@ -116,7 +116,7 @@
      <string>Delete</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="Check">
+   <widget class="QPushButton" name="Clear">
     <property name="geometry">
      <rect>
       <x>220</x>
@@ -126,7 +126,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Check</string>
+     <string>Clear</string>
     </property>
    </widget>
    <widget class="QPushButton" name="Add">
